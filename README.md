@@ -31,7 +31,8 @@ Sometimes I write about the new things I'm learning. You can read my ramblings [
 
 ### Development Tools
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
 My best skill, however, is learning. Unfortunately, they don't make a profile badge for that. If there is a problem to be solved, I'll find a solution for it!
 
