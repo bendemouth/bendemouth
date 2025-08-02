@@ -38,7 +38,5 @@ My best skill, however, is learning. Unfortunately, they don't make a profile ba
 
 ### Connect With Me
 <a href="mailto:bendemouth@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<br>
 <a href="https://bsky.app/profile/turbocorn.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" /></a>
-<br>
 <a href="https://open.spotify.com/user/1287446953?si=1cc3a2d945814c19"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /></a>
